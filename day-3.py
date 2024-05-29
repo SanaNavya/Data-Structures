@@ -1,5 +1,4 @@
 # ## creation of linked list 
-'''
 class node:
     def __init__(self,data):
         self.data=data
@@ -316,7 +315,7 @@ print(a.head.data)
 print(a.head.next.data)   
 print(a.head.next.next.data)
 
-'''
+
 ###
 
 class node:
