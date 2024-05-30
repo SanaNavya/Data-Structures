@@ -1,4 +1,4 @@
-'''
+
 ##linear search
 
 l=[1,2,3,4,5,10,99]
@@ -148,7 +148,7 @@ t.insert(6)
 t.insert(8)
 t.preorder()
 
-''' 
+ 
 ## post order
 
 class Node:
